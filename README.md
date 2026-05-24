@@ -65,7 +65,7 @@ class Santhosh:
         "Scalable Backend Architecture"
     ]
 
-    def current_goal(self):
+    def build(self):
         return "Build production-grade scalable systems"
 ```
 
