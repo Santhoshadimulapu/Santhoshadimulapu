@@ -101,7 +101,7 @@ class Santhosh:
 
 Scalable hospital management platform with secure authentication, concurrency-safe booking, and real-time queue estimation.
 
-### Key Features
+### Features
 - JWT Authentication & RBAC
 - Redis Distributed Locking
 - MySQL Transaction Handling
@@ -123,10 +123,10 @@ Scalable hospital management platform with secure authentication, concurrency-sa
 
 Real-time collaborative study platform supporting multi-user communication and live interactions.
 
-### Key Features
+### Features
 - Real-Time Chat
 - WebSocket Communication
-- JWT Session Auth
+- JWT Session Authentication
 - Multi-User Study Rooms
 - Persistent Messaging
 
@@ -134,6 +134,50 @@ Real-time collaborative study platform supporting multi-user communication and l
 `Node.js` `Socket.IO` `React` `MongoDB`
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Santhoshadimulapu/Study-collab)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⚖️ Ethical AI Simulator
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="140"/>
+
+Interactive AI ethics simulation platform designed to analyze decision-making scenarios and responsible AI behavior.
+
+### Features
+- Ethical Decision Simulations
+- Scenario-Based AI Testing
+- User Interaction System
+- AI Bias & Fairness Analysis
+
+### Tech Stack
+`React` `JavaScript` `Node.js`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Santhoshadimulapu/Ethical-Ai-Trianing-simulation)
+
+</td>
+
+<td width="50%" valign="top">
+
+## ❤️ Cardio Risk Checker
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" height="140"/>
+
+Health risk prediction system that analyzes user health metrics to estimate potential cardiovascular risk levels.
+
+### Features
+- Health Metric Analysis
+- Risk Prediction Logic
+- Interactive Dashboard
+- Real-Time Result Generation
+
+### Tech Stack
+`Python` `Machine Learning` `Flask` `Pandas`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Santhoshadimulapu/cardio-risk-checker)
 
 </td>
 </tr>
