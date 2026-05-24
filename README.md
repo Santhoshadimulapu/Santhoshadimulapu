@@ -39,8 +39,8 @@ Currently learning:
 - Docker and deployment workflows
 
 ```python
-class Asish:
-    role = "AI/ML Developer & Full-Stack Engineer"
+class Santhosh:
+    role = "Full-Stack Engineer & AI/ML Developer"
     code = ["Python", "JavaScript", "TypeScript", "Java"]
     focus = ["Deep Learning", "LLMs", "RAG Systems", "MERN Stack"]
     
