@@ -142,17 +142,17 @@ Machine learning-based application for analyzing health metrics and estimating c
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Santhoshadimulapu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhoshadimulapu&theme=github_dark"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Santhoshadimulapu&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santhoshadimulapu&theme=github_dark"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhoshadimulapu&theme=github_dark&utcOffset=5.5"/>
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshadimulapu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santhoshadimulapu&theme=github_dark"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santhoshadimulapu&theme=github_dark"/>
 
 </div>
 
