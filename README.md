@@ -38,6 +38,17 @@ Currently learning:
 - scalable backend architecture
 - Docker and deployment workflows
 
+```python
+class Asish:
+    role = "AI/ML Developer & Full-Stack Engineer"
+    code = ["Python", "JavaScript", "TypeScript", "Java"]
+    focus = ["Deep Learning", "LLMs", "RAG Systems", "MERN Stack"]
+    
+    def build(self):
+        return "Intelligent, Scalable Solutions"
+```
+
+
 <br clear="right"/>
 
 ---
