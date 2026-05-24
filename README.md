@@ -160,11 +160,11 @@ Machine learning-based application for analyzing health metrics and estimating c
 
 <div align="center">
 
-| Backend | Learning | Problem Solving |
+| Backend | AI/ML | Learning |
 |:--:|:--:|:--:|
-| REST APIs | System Design | LeetCode |
-| Real-Time Apps | Docker | DSA |
-| Database Design | Redis | Backend Logic |
+| REST APIs | Machine Learning | System Design |
+| Real-Time Apps | AI Applications | Docker |
+| Database Design | LLM Integrations | Cloud Deployment |
 
 </div>
 
