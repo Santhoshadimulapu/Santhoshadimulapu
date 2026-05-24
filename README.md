@@ -69,8 +69,6 @@ class Santhosh:
         return "Build production-grade scalable systems"
 ```
 
-<br clear="right"/>
-
 ---
 
 # ⚒️ Tech Stack
