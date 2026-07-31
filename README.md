@@ -192,7 +192,7 @@ Machine learning-based application for analyzing health metrics and estimating c
 
 ### 🏆 Achievements
 
-- Solved 150+ DSA problems on LeetCode
+- Solved 170+ DSA problems on LeetCode
 - Built multiple backend-focused projects
 - Implemented Redis-based concurrency handling
 - Developed real-time applications using WebSockets
