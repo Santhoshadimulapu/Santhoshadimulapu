@@ -75,7 +75,7 @@ class Santhosh:
 <tr>
 <td width="50%" valign="top">
 
-#### 🏥 Hospital Appointment & Queue Management System
+#### 🏥 Intelligent Patient Scheduling and Queue Optimization System
 
 Backend-focused hospital management platform with authentication, appointment booking, and queue handling.
 
